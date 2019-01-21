@@ -1,5 +1,5 @@
 # priyankmalviya-p0
-Word_Count and TF_IDF
+##Word_Count and TF_IDF
 
 Given a set of documents i.e 8 different books by different authors avaiable at https://www.gutenberg.org/
 
@@ -38,3 +38,9 @@ IDF = log N/n
 N = total number of documents
 n = number of documents specific term appears in which in our case could range from 1 to 8.
 Output contains top 5 words from each document based on their TF-IDF score.
+
+## Technology Used
+Python 
+Apache Spark
+
+
