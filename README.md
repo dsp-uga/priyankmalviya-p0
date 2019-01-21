@@ -40,7 +40,7 @@ n = number of documents specific term appears in which in our case could range f
 Output contains top 5 words from each document based on their TF-IDF score.
 
 ## Technology Used
-Python 
-Apache Spark
+1.Python 
+2.Apache Spark
 
 
